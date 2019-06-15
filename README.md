@@ -1,4 +1,6 @@
-# Skeleton Page Blocker
+# Page Blocker
+
+[![Build Status](https://travis-ci.org/rodrigoiii/page-blocker.svg?branch=master)](https://travis-ci.org/rodrigoiii/page-blocker)
 
 This library helps you to block the page and give it time how long it will available to access again.
 
